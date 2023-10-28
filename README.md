@@ -10,6 +10,7 @@ Constants
 Repository
 Service
 Themes
+Components
 
 The API for this app was made in Quarkus
 
