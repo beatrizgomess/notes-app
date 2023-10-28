@@ -1,16 +1,17 @@
 # notes_app
 
-A new Flutter project.
+## CRUD Notes App
 
-## Getting Started
+Project structure:
+Model
+View
+Controller View
+Constants
+Repository
+Service
+Themes
 
-This project is a starting point for a Flutter application.
+The API for this app was made in Quarkus
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1698461022](https://github.com/beatrizgomess/notes_app/assets/78573126/05b2673d-ad94-4208-99ed-9e5acba5350a)
